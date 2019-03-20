@@ -8,5 +8,5 @@ Step 3 click on the user CSS / Javascript icon from the chrome toolbar <br>
 Step 4 click on the settings wheel for rules <br>
 Step 3 click + Add new site button <br>
 Step 5 replace * .exmaple.com with www.google.com <br>
-Step 6 copy and paste the CSS below into the CSS pane & save <br>
+Step 6 copy and paste the CSS in googlesearch_rule.css into the CSS pane & save <br>
 Step 7 perform a google search in a new tab <br>
