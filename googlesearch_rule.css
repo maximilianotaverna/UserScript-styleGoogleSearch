@@ -15,29 +15,6 @@ body, html, input {
 }
 
 
-/*----- shadow style NOT IN USE -----*/
-
-/*
-.mw {
-    background: #f8f8f8;
-}
-*/
-
-/*
-.g {
-    background: white;
-    border-bottom: 1px solid #efefef;
-    border-radius: 20px;
-    padding: 45px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.07), 0 6px 20px 0 rgba(0, 0, 0, 0.03);
-}
-
-div#cnt {
-    background: #f8f8f8;
-}
-
-*/
-
 /*----- search results -----*/
 
 h3 {
