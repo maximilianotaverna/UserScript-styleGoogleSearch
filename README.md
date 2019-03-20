@@ -11,5 +11,5 @@ https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgm
 * Step 3 - click on the settings wheel for rules 
 * Step 4 - click + Add new site button 
 * Step 5 - replace * .exmaple.com with www.google.com 
-* Step 6 - copy and paste the CSS in https://github.com/maximilianotaverna/clean-search-CSS/blob/master/googlesearch_rule.css into the CSS pane & save
+* Step 6 - copy and paste the CSS in <a href="https://github.com/maximilianotaverna/clean-search-CSS/blob/master/googlesearch_rule.css">googlesearch_rule.css</a> into the CSS pane & save
 * Step 7 - perform a google search in a new tab <br>
