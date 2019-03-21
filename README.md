@@ -13,3 +13,6 @@ https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgm
 * Step 5 - replace *.example.com with www.google.com 
 * Step 6 - copy and paste the CSS in <a href="https://github.com/maximilianotaverna/clean-search-CSS/blob/master/googlesearch_rule.css">googlesearch_rule.css</a> into the CSS pane & save
 * Step 7 - perform a google search in a new tab <br>
+
+![](images/before.jpeg)
+![](images/after.jpeg)
