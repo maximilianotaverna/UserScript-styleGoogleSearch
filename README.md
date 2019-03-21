@@ -1,4 +1,4 @@
-# clean-search-CSS
+# CleanSearch-CSS
 Display a clean google search results page (no ads at the top) with material looking UI.
 
 ## Requirements
