@@ -1,16 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Questrial&display=swap');
+
 * {
-    font-family: Product Sans;
+    font-family: /*'Product Sans*/ 'Questrial';
     font-size: 15px;
 }
 
 
 h1 {
-    font-family: Product Sans;
+    font-family: /*'Product Sans*/ 'Questrial';
     font-size: small;
 }
 
 body, html, input {
-    font-family: Product Sans;
+    font-family: /*'Product Sans*/ 'Questrial';
     font-size: small;
 }
 
@@ -34,8 +36,7 @@ h3 {
 
 .st {
     letter-spacing: -0.3px;
-    /* remove font family below for product sans*/
-    font-family: Roboto!important;
+    font-family: 'Roboto'!important;
 }
 
 .RNNXgb {
@@ -68,7 +69,7 @@ div#tads {
 .iUh30 {
     //font-size: inherit!important;
     font-size: 12px!important;
-    font-family: Roboto!important;
+    font-family: 'Roboto'!important;
   	letter-spacing: -0.2px;
 
 }
@@ -105,7 +106,7 @@ div#searchform {
 }
 
 .gsfi, .lst {
-    font: 14px Product Sans,sans-serif;
+    font: 14px /*'Product Sans*/ 'Questrial',sans-serif;
 }
 
 .sfbgx {
@@ -132,3 +133,4 @@ div#hdtbSum {
     height: 90px;
     border-bottom: 1px solid #eee;
 }
+
