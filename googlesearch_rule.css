@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Questrial&display=swap');
 
 * {
-    font-family: /*'Product Sans*/ 'Questrial';
+    font-family: -apple-system, 'Product Sans', 'Roboto';
     font-size: 15px;
 }
 
 
 h1 {
-    font-family: /*'Product Sans*/ 'Questrial';
+    font-family: -apple-system, 'Product Sans', 'Roboto';
     font-size: small;
 }
 
 body, html, input {
-    font-family: /*'Product Sans*/ 'Questrial';
+    font-family: -apple-system, 'Product Sans', 'Roboto';
     font-size: small;
 }
 
@@ -20,8 +20,8 @@ body, html, input {
 /*----- search results -----*/
 
 h3 {
-    font-size: 21px!important;
-    font-weight: 100;
+    font-size: 20px!important;
+    font-weight: 500;
     margin-bottom: 0.6%;
     margin-top: 0.6%;
     padding: 0;
@@ -95,6 +95,11 @@ a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
     /*font-size: larger;*/
 }
 
+/*button*/
+.headline-cta-section a, a.h-c-button, a.get-google-editors{
+    color: #FFFFFF!important;
+}
+
 /*----- searchbar -----*/
 
 .minidiv .sfbg {
@@ -106,14 +111,11 @@ div#searchform {
 }
 
 .gsfi, .lst {
-    font: 14px /*'Product Sans*/ 'Questrial',sans-serif;
+    font-family: 'Product Sans', 'Questrial';
+    font-size: 14px;
 }
 
 .sfbgx {
-    background: #f8f8f8;
-}
-
-.sfbgg {
     background: #f8f8f8;
 }
 
@@ -128,6 +130,14 @@ div#hdtbSum {
     color: #4285F4!important;
 }
 
+#sform {
+    padding-top: 20px;
+    background: rgb(248, 248, 248)!important;
+}
+
+#cnt {
+    padding-top: 0;
+}
 
 /*----- mini searchbar -----*/
 
