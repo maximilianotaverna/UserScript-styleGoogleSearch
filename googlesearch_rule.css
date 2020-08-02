@@ -128,7 +128,7 @@ a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .t
 
 /* site */
 .a, cite, cite a:link, cite a:visited, .cite, .cite:link, #nygTcd>i, .bc a:link {
-    color: var(--color-red)!important;
+    color: var(--color-green)!important;
 }
 
 
