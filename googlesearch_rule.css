@@ -1,32 +1,42 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto|Questrial&display=swap');
-
-* {
-    font-family: -apple-system, 'Product Sans', 'Roboto';
-    font-size: 15px;
-}
+@import url('https://fonts.googleapis.com/css?family=Roboto|Nunito|Rubik|Questrial&display=swap');
 
 
-h1 {
-    font-family: -apple-system, 'Product Sans', 'Roboto';
-    font-size: small;
-}
-
-body, html, input {
-    font-family: -apple-system, 'Product Sans', 'Roboto';
-    font-size: small;
-}
-
-
-/*-----    colors    -----*/
+/*-----    colors / fonts   -----*/
 html {
   --color-green: #0F9D58;
-  --color-green-light: #7BCFA9;
   --color-blue: #4285F4;
   --color-red: #DB4437;
   --color-yellow: #F4B400;
   --color-orange: #F57F17;
   --color-grey: #838383;
+  --font-main: 'Product Sans';
+  --font-alt: 'Roboto';
+  /*--font-main: 'Questrial';  */
+  /*--font-alt: 'Questrial';  */
+  /*--font-main: 'Nunito';  */
+  /*--font-alt: 'Nunito';*/
+  /*--font-main: 'Rubik';  */
+  /*--font-alt: 'Rubik';  */
 }	
+
+
+/*----- global -----*/
+
+* {
+    font-family: -apple-system, var(--font-main), var(--font-alt);
+    font-size: 15px;
+}
+
+
+h1 {
+    font-family: -apple-system, var(--font-main), var(--font-alt);
+    font-size: small;
+}
+
+body, html, input {
+    font-family: -apple-system, var(--font-main), var(--font-alt);
+    font-size: small;
+}
 
 
 /*----- above results -----*/
@@ -47,9 +57,15 @@ h3 {
     margin-bottom: 0.6%;
     margin-top: 0.6%;
     padding: 0;
-    color: black;
-    opacity: 0.3;
+    letter-spacing: -0.3px!important;
+    /*color: var(--color-red);*/
+    /*opacity: 0.3;*/
 }
+
+/*--date--*/
+span.f {
+    color: var(--color-blue);
+}  
 
 .g {
     background: white;
@@ -59,7 +75,13 @@ h3 {
 
 .st {
     letter-spacing: -0.3px;
-    font-family: 'Roboto'!important;
+    font-family: var(--font-alt)!important;
+    color: var(--color-grey);
+}
+
+.s .st em, .st.s.std em {
+	color: black;
+	text-decoration: underline;
 }
 
 .RNNXgb {
@@ -121,9 +143,14 @@ a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .t
     color: var(--color-blue);
 }
 
-/* viisited */
+/* new links */
+#res h3, #extrares h3 {
+	color: var(--color-red)!important;
+}
+
+/* visited */
 .mblink:visited, a:visited {
-    color: var(--color-yellow)!important;
+    color: var(--color-grey)!important;
 }
 
 /* site */
@@ -137,9 +164,9 @@ a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .t
     color: var(--color-blue)!important;
 }
 
-/* number */
+/* subs pages */
 a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
-    color: var(--color-red)!important;
+    color: var(--color-yellow)!important;
     /*font-size: larger;*/
 }
 
@@ -162,3 +189,4 @@ a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
     height: 90px;
     border-bottom: 1px solid #eee;
 }
+
