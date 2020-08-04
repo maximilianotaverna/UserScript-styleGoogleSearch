@@ -5,6 +5,8 @@ Display a clean google search results page (no ads at the top) with material loo
 * install one of these extensions for your browser <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> / <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a>
 * install the <a href="https://openuserjs.org/scripts/MilionMax/Google_Clean_Search">GoogleCleanSearch</a> script
 
+** NOTE: if you're installing on Opera browser make sure to enable (Allow access to search page results) in "Manage Extension Settings"
+
 ## Alternative
 * Step 1 - install chrome extension : 
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld 
