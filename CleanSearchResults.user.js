@@ -3,8 +3,11 @@
 // @name        Google Clean Search
 // @description Clean up the current look of google search
 // @version     0.0.1
-// @include     http://www.google.*/*
+// @include     http://www.google.*/search*
+// @include     https://www.google.*/search*
 // @include     https://www.google.*/*
+// @include     https://encrypted.google.*/search*
+// @include     https://encrypted.google.*/*
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_xmlhttpRequest
