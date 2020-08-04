@@ -5,6 +5,13 @@
 // @version     0.0.1
 // @include     http://www.google.*/*
 // @include     https://www.google.*/*
+// @grant       GM_getValue
+// @grant       GM_setValue
+// @grant       GM_xmlhttpRequest
+// @grant       GM_log
+// @grant       GM_registerMenuCommand
+// @grant       unsafeWindow
+// @license     MIT
 // ==/UserScript==
 
 // ==OpenUserJS==
