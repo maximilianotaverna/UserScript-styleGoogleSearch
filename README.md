@@ -1,11 +1,11 @@
 # CleanSearch-CSS
 Display a clean google search results page (no ads at the top) with material looking UI.
 
-## Alternative Install
-* install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> / <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> extension
+## Install Instructions
+* install one of these extensions for your browser <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> / <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a>
 * install the <a href="https://openuserjs.org/scripts/MilionMax/Google_Clean_Search">GoogleCleanSearch</a> script
 
-## Instructions
+## Alternative
 * Step 1 - install chrome extension : 
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld 
 * Step 2 - open a new tab 
