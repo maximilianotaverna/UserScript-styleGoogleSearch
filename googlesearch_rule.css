@@ -87,8 +87,6 @@ span.f {
 .RNNXgb {
     background: #fff;
     display: flex;
-    border-radius: 0px;
-    border-bottom: 1px solid #dfe1e5;
     box-shadow: none;
     height: 39px;
     width: 630px;
@@ -181,12 +179,16 @@ a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
     color: var(--color-blue)!important;
 }
 
+
 /*----- mini searchbar -----*/
 
 .minidiv .sfbg {
-    background: #f8f8f8;
     box-shadow: none;
-    height: 90px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 2px dotted #eee;
+    // height: 90px;
+    // box-shadow: 0px 2px 20px 20px #00000021;
 }
 
+.minidiv #logo img {
+    zoom: 0.7
+}
