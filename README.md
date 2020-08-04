@@ -5,6 +5,10 @@ Display a clean google search results page (no ads at the top) with material loo
 * Install chrome extension : 
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld 
 
+## Alternative Install
+* install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> / href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> extension
+* install the <a href="https://openuserjs.org/scripts/MilionMax/Google_Clean_Search">GoogleCleanSearch</a> script
+
 ## Instructions
 * Step 1 - open a new tab 
 * Step 2 - click on the user CSS / Javascript icon from the chrome toolbar 
@@ -15,7 +19,7 @@ https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgm
 * Step 7 - perform a google search in a new tab <br>
 
 # Note
-'Product Sans' is under the google product sans license. Hence, it is not Open Source, and is strictly not for any use other than in the google logo. This is strictly not for commercial use. However, there are other free typefaces which resemble Product Sans. 
+'Product Sans' is under the google product sans license. Hence, it is not Open Source, and is strictly not for any use other than in the google logo. This is strictly not for commercial use. However, there are other free typefaces included in the script that can be un-commented for use. 
 
 
 ![](images/before.png)
