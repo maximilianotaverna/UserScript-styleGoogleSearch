@@ -6,7 +6,7 @@ Display a clean google search results page (no ads at the top) with material loo
 https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld 
 
 ## Alternative Install
-* install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> / href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> extension
+* install <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a> / <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">Violentmonkey</a> / <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">Greasemonkey</a> extension
 * install the <a href="https://openuserjs.org/scripts/MilionMax/Google_Clean_Search">GoogleCleanSearch</a> script
 
 ## Instructions
