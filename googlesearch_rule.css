@@ -188,7 +188,7 @@ a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
 }
 
 input {
-    font-family: sans-serif!important;
+    font-family: var(--font-alt)!important;
     font-size: 13px!important;
 }
 
