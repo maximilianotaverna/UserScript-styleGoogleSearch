@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto|Nunito|Rubik|Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Nunito|Rubik|Manrope&display=swap');
 
+/*-----    NOTE: If you do not have Product Sans installed uncomment one of the other font-main or font-alt below   -----*/
 
 /*-----    colors / fonts   -----*/
 html {
@@ -9,10 +10,11 @@ html {
   --color-yellow: #F4B400;
   --color-orange: #F57F17;
   --color-grey: #838383;
+  --color-lightgrey: #cccccc;
   --font-main: 'Product Sans';
   --font-alt: 'Roboto';
-  /*--font-main: 'Questrial';  */
-  /*--font-alt: 'Questrial';  */
+  /*--font-main: 'Manrope'; */
+  /*--font-alt: 'Manrope';  */
   /*--font-main: 'Nunito';  */
   /*--font-alt: 'Nunito';*/
   /*--font-main: 'Rubik';  */
@@ -62,11 +64,6 @@ h3 {
     /*opacity: 0.3;*/
 }
 
-/*--date--*/
-span.f {
-    color: var(--color-blue);
-}  
-
 .g {
     background: white;
     padding: 25px;
@@ -78,6 +75,8 @@ span.f {
     font-family: var(--font-alt)!important;
     color: var(--color-grey);
 }
+
+/*--- keywords ---*/
 
 .s .st em, .st.s.std em {
 	color: black;
@@ -95,6 +94,7 @@ span.f {
     margin: 0 auto;
 
 }
+
 
 /*--- people also ask ---*/
 
@@ -135,48 +135,61 @@ div#tads {
 
 }
 
+/*--date--*/
+
+span.f {
+    color: var(--color-red)!important;
+}  
 
 /* related links */
-a:link, .w, #prs a:visited, #prs a:active, .q:active, .q:visited, .kl:active, .tbotu {
+
+a:link, .w, #prs a:active, .q:active, .kl:active, .tbotu {
     color: var(--color-blue);
 }
 
-/* new links */
-#res h3, #extrares h3 {
-	color: var(--color-red)!important;
-}
-
-/* visited */
-.mblink:visited, a:visited {
-    color: var(--color-grey)!important;
-}
-
 /* site */
-.a, cite, cite a:link, cite a:visited, .cite, .cite:link, #nygTcd>i, .bc a:link {
-    color: var(--color-green)!important;
+
+.a, cite, cite a:link, .cite, .cite:link, #nygTcd>i, .bc a:link {
+    color: var(--color-yellow)!important;
 }
 
 
 /* page */
+
 .eipWBe {
-    color: var(--color-blue)!important;
+    color: var(--color-red)!important;
 }
 
 /* subs pages */
+
 a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b {
     color: var(--color-yellow)!important;
     /*font-size: larger;*/
 }
 
-/*button*/
+/* button */
+
 .headline-cta-section a, a.h-c-button, a.get-google-editors{
     color: white!important;
 }
 
+/* visited */
+
+.mblink:visited, a:visited, .q:visited, #prs a:visited, cite a:visited {
+    color: var(--color-lightgrey)!important;
+}
+
+
 /*-------  searchbar -------*/
+
 #hdtb-msb .hdtb-mitem.hdtb-msel {
     border-bottom: 3px solid var(--color-blue)!important;
     color: var(--color-blue)!important;
+}
+
+input {
+    font-family: sans-serif!important;
+    font-size: 13px!important;
 }
 
 
