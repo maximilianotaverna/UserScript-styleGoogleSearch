@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto|Nunito|Rubik|Manrope&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Nunito|Rubik|DM+Sans|Manrope&display=swap');
 
-/*-----    NOTE: If you do not have Product Sans installed uncomment one of the other font-main or font-alt below   -----*/
+/*-----    NOTE: If you have Product Sans installed uncomment it below -----*/
 
 /*-----    colors / fonts   -----*/
 html {
@@ -11,14 +11,16 @@ html {
   --color-orange: #F57F17;
   --color-grey: #838383;
   --color-lightgrey: #cccccc;
-  --font-main: 'Product Sans';
   --font-alt: 'Roboto';
+  --font-main: 'DM Sans';
+  /*--font-alt: 'DM Sans'; */
   /*--font-main: 'Manrope'; */
   /*--font-alt: 'Manrope';  */
   /*--font-main: 'Nunito';  */
   /*--font-alt: 'Nunito';*/
   /*--font-main: 'Rubik';  */
   /*--font-alt: 'Rubik';  */
+  /*--font-main: 'Product Sans'; */
 }	
 
 
