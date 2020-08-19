@@ -219,7 +219,7 @@ input {
 
 .minidiv .sfbg {
   height: 50px!important;
-  box-shadow: 0px 10px 100px 80px white!important;
+  box-shadow: 0px 0px 100px 80px white!important;
 }
 
 .minidiv #logo img {
