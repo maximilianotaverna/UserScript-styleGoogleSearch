@@ -91,14 +91,13 @@ h3 {
   z-index: 3;
   height: 44px;
   margin: 0 auto;
-
 }
 
 
 /*--- people also ask ---*/
 
 .xpdopen {
-  zoom: 0.8;
+  transform: scale(0.8);
 }
 
 .kno-ftr {
@@ -205,7 +204,7 @@ cite a:visited {
 /*-------  searchbar -------*/
 
 #hdtb-msb .hdtb-mitem.hdtb-msel {
-  border-bottom: 3px solid var(--color-blue) !important;
+  /*border-bottom: 3px solid var(--color-blue) !important;*/
   color: var(--color-blue) !important;
 }
 
@@ -217,11 +216,12 @@ input {
 
 /*----- mini searchbar -----*/
 
+/* white fade */
 .minidiv .sfbg {
-  height: 50px!important;
-  box-shadow: 0px 0px 100px 80px white!important;
+  height: 60px!important;
+  box-shadow: 0px 0px 60px 60px white!important;
 }
 
 .minidiv #logo img {
-  zoom: 0.7
+  transform: scale(0.7);
 }
