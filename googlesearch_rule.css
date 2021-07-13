@@ -53,6 +53,16 @@ body.vasq #hdtbMenus.hdtb-td-o {
 
 /*----- search results -----*/
 
+a { 
+  transform: scale(0.95);
+  transition-duration: 0.35s;
+}
+
+a:hover {
+  transform: scale(1);
+  transition-duration: 0.5s;
+}
+
 h3 {
   font-size: 20px !important;
   font-weight: 500;
