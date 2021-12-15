@@ -229,7 +229,7 @@ input {
 /* white fade */
 .minidiv .sfbg {
   height: 60px!important;
-  box-shadow: 0px 0px 60px 60px white!important;
+  /* box-shadow: 0px 0px 60px 60px white!important; */
 }
 
 .minidiv #logo img {
