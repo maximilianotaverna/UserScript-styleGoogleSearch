@@ -22,5 +22,5 @@ https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgm
 'Product Sans' is under the google product sans license. Hence, it is not Open Source, and is strictly not for any use other than in the google logo. This is strictly not for commercial use. However, there are other free typefaces included in the script that can be un-commented for use. 
 
 
-![](images/before.png)
-![](images/after.png)
+![](before.png)
+![](after.png)
