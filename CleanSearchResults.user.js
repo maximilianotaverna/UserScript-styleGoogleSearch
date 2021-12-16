@@ -3,7 +3,7 @@
 // @namespace   https://openuserjs.org/users/MilionMax
 // @name        Google Clean Search
 // @description Clean up the current look of google search
-// @version     0.0.10
+// @version     0.0.11
 // @include     http://www.google.*/search*
 // @include     https://www.google.*/search*
 // @include     https://www.google.*/*
