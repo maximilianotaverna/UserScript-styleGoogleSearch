@@ -1,4 +1,4 @@
-# CleanSearch-CSS
+# UserScript-styleGoogleSearch
 Display a clean google search results page (no ads at the top) with material looking UI.
 
 ## Install Instructions
