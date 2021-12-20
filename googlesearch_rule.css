@@ -227,8 +227,11 @@ input {
 
 /* white fade */
 .minidiv .sfbg {
-  height: 78px!important;
-  box-shadow: 0 16px 16px 0 rgb(32 33 36 / 16%)!important;
+  box-shadow: none!important;
+  height: 74px!important;
+  background: #ffffffcc;
+  backdrop-filter: blur(10px);
+  border: 1px solid #eee;
 }
 
 .minidiv #logo img {
