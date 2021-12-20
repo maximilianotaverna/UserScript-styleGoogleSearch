@@ -19,4 +19,4 @@ var cssTxt  = GM_getResourceText("customCSS");
 GM_addStyle (cssTxt);
 
 /* if you have google's  Product Sans font installed uncomment below */
-// GM_addStyle('html { --font-main: Product Sans!important; }');
+// GM_addStyle('html { --font-main: "Product Sans"!important; }');
